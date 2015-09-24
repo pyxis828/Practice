@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\odd numbers\odd numbers\bin\Debug\odd numbers.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\odd numbers\odd numbers\bin\Debug\odd numbers.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\odd numbers\odd numbers\bin\Debug\odd numbers.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\odd numbers\odd numbers\obj\Debug\odd numbers.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\odd numbers\odd numbers\obj\Debug\odd numbers.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\odd numbers\odd numbers\obj\Debug\odd numbers.pdb

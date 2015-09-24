@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\3rdDigit7\3rdDigit7\bin\Debug\3rdDigit7.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\3rdDigit7\3rdDigit7\bin\Debug\3rdDigit7.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\3rdDigit7\3rdDigit7\bin\Debug\3rdDigit7.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\3rdDigit7\3rdDigit7\obj\Debug\3rdDigit7.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\3rdDigit7\3rdDigit7\obj\Debug\3rdDigit7.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\3rdDigit7\3rdDigit7\obj\Debug\3rdDigit7.pdb

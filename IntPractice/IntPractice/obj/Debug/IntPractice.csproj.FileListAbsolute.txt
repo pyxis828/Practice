@@ -1,0 +1,5 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\IntPractice\IntPractice\bin\Debug\IntPractice.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\IntPractice\IntPractice\bin\Debug\IntPractice.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\IntPractice\IntPractice\bin\Debug\IntPractice.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\IntPractice\IntPractice\obj\Debug\IntPractice.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\IntPractice\IntPractice\obj\Debug\IntPractice.pdb

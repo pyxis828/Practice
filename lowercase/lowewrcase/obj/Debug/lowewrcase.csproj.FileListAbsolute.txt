@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\lowewrcase\lowewrcase\bin\Debug\lowewrcase.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\lowewrcase\lowewrcase\bin\Debug\lowewrcase.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\lowewrcase\lowewrcase\bin\Debug\lowewrcase.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\lowewrcase\lowewrcase\obj\Debug\lowewrcase.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\lowewrcase\lowewrcase\obj\Debug\lowewrcase.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\lowewrcase\lowewrcase\obj\Debug\lowewrcase.pdb

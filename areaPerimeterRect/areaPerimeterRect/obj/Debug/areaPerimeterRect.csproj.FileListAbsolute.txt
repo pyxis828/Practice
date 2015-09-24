@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\areaPerimeterRect\areaPerimeterRect\bin\Debug\areaPerimeterRect.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\areaPerimeterRect\areaPerimeterRect\bin\Debug\areaPerimeterRect.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\areaPerimeterRect\areaPerimeterRect\bin\Debug\areaPerimeterRect.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\areaPerimeterRect\areaPerimeterRect\obj\Debug\areaPerimeterRect.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\areaPerimeterRect\areaPerimeterRect\obj\Debug\areaPerimeterRect.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\areaPerimeterRect\areaPerimeterRect\obj\Debug\areaPerimeterRect.pdb

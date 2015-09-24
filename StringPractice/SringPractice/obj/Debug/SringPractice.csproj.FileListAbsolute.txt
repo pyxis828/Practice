@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\SringPractice\SringPractice\bin\Debug\SringPractice.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\SringPractice\SringPractice\bin\Debug\SringPractice.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\SringPractice\SringPractice\bin\Debug\SringPractice.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\SringPractice\SringPractice\obj\Debug\SringPractice.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\SringPractice\SringPractice\obj\Debug\SringPractice.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\SringPractice\SringPractice\obj\Debug\SringPractice.pdb
