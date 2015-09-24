@@ -1,0 +1,6 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\forLoopstring to int arrays\forLoopstring to int arrays\bin\Debug\forLoopstring to int arrays.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\forLoopstring to int arrays\forLoopstring to int arrays\bin\Debug\forLoopstring to int arrays.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\forLoopstring to int arrays\forLoopstring to int arrays\bin\Debug\forLoopstring to int arrays.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\forLoopstring to int arrays\forLoopstring to int arrays\obj\Debug\forLoopstring to int arrays.csprojResolveAssemblyReference.cache
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\forLoopstring to int arrays\forLoopstring to int arrays\obj\Debug\forLoopstring to int arrays.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\forLoopstring to int arrays\forLoopstring to int arrays\obj\Debug\forLoopstring to int arrays.pdb
