@@ -1,0 +1,5 @@
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\areaOfATrapezoid\areaOfATrapezoid\bin\Debug\areaOfATrapezoid.exe.config
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\areaOfATrapezoid\areaOfATrapezoid\bin\Debug\areaOfATrapezoid.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\areaOfATrapezoid\areaOfATrapezoid\bin\Debug\areaOfATrapezoid.pdb
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\areaOfATrapezoid\areaOfATrapezoid\obj\Debug\areaOfATrapezoid.exe
+c:\users\kirstin walsh\documents\visual studio 2015\Projects\areaOfATrapezoid\areaOfATrapezoid\obj\Debug\areaOfATrapezoid.pdb
