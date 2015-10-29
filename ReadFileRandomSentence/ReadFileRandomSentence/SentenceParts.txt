@@ -1,0 +1,3 @@
+﻿The nurse,The dog,The cat,He,She,The dancer,The car,The monster,The chef,Thejudge,
+ran,skipped,
+around the room,over the rock,through the rain

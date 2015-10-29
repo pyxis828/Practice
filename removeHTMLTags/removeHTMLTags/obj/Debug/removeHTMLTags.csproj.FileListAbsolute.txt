@@ -4,3 +4,9 @@ c:\users\kirstin walsh\documents\visual studio 2015\Projects\removeHTMLTags\remo
 c:\users\kirstin walsh\documents\visual studio 2015\Projects\removeHTMLTags\removeHTMLTags\obj\Debug\removeHTMLTags.csprojResolveAssemblyReference.cache
 c:\users\kirstin walsh\documents\visual studio 2015\Projects\removeHTMLTags\removeHTMLTags\obj\Debug\removeHTMLTags.exe
 c:\users\kirstin walsh\documents\visual studio 2015\Projects\removeHTMLTags\removeHTMLTags\obj\Debug\removeHTMLTags.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\removeHTMLTags\removeHTMLTags\bin\Debug\removeHTMLTags.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\removeHTMLTags\removeHTMLTags\obj\Debug\removeHTMLTags.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\removeHTMLTags\removeHTMLTags\obj\Debug\removeHTMLTags.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\removeHTMLTags\removeHTMLTags\bin\Debug\removeHTMLTags.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\removeHTMLTags\removeHTMLTags\bin\Debug\removeHTMLTags.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\removeHTMLTags\removeHTMLTags\obj\Debug\removeHTMLTags.csprojResolveAssemblyReference.cache

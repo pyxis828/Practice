@@ -19,6 +19,12 @@ namespace StreamReaderPractice
                     Console.WriteLine(line);
                     line = reader.ReadLine();
                 }
+            }
+            StreamWriter writer = new StreamWriter("anotherFile.txt");
+            using (writer)
+            {
+                string words = "Write out some text";
+                writer.WriteLine(words);
             }            
         }
     }

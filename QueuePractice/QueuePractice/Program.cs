@@ -40,6 +40,10 @@ namespace QueuePractice
             nums.Enqueue(9);
             Console.WriteLine(nums.Contains(6));
             Console.WriteLine(nums.Contains(3));
+            int numElements = nums.Count;
+            Console.WriteLine(numElements);
+            int firstElement = (nums.Peek());
+            Console.WriteLine(firstElement);
         }
     }
 }
