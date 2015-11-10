@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Cat Video Site</h1>    
+    </div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Cat Stuff</h2>        
+        <p>@Html.ActionLink("Cat Stuff", "index", "Cats")</p>
+    </div>
+    <div class="col-md-4">
+        <h2>Cat Videos</h2>       
+        <p>@Html.ActionLink("Cat Videos", "index", "Videos") </p>
+    </div>
+    <div class="col-md-4">
+        <h2>Watch Your Favorite Cats</h2>        
+        <p>@Html.ActionLink("Fav Videos", "index", "CatNameToURLs")</p>
+    </div>
+</div>

@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<div class="row jumbotron">
+    <div class="col-md-5"><h1><font color="#ffebes">Music Store</font></h1></div>  
+    <div id="jumboimg" class="col-md-3">
+        <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGEs3CoOaxkHPb0TvV_7ndybJEHIasDHDWEVnXM52qY5S7nO0GkQ" class="img-rounded" alt="Record player">
+    </div>
+</div>
+
+
+<div class="row homePage">
+    <div class="col-md-4" >
+        <h2>Customers</h2>        
+        <p>@Html.ActionLink("Customers", "Index", "Customers")</p>
+    </div>
+    <div class="col-md-4">
+        <h2>Artists</h2>        
+        <p>@Html.ActionLink("Available Albums", "Index", "Musics")</p>
+        <p class="text-info">Check back often for new additions</p>
+    </div>
+    <div class="col-md-4">
+        <h2>Purchases</h2>        
+        <p>@Html.ActionLink("Purchase History", "Index", "Purchases")</p>
+    </div>
+</div>

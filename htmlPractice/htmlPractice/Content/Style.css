@@ -1,0 +1,18 @@
+﻿body
+ {
+    background-color: #B4C6FF;
+}
+h1{
+    color:dimgrey;
+}
+.firstp {
+    font-size: 32px;
+}
+#secondp{
+    color:darkslateblue;    
+    border-bottom: 3px ridge darkblue;
+}
+img, iframe{
+    width: 500px;
+    height: 300px;
+}
