@@ -3,11 +3,24 @@
 }
 <div class="row jumbotron">
     <div class="col-md-5"><h1><font color="#ffebes">Music Store</font></h1></div>  
-    <div id="jumboimg" class="col-md-3">
-        <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGEs3CoOaxkHPb0TvV_7ndybJEHIasDHDWEVnXM52qY5S7nO0GkQ" class="img-rounded" alt="Record player">
+    <div id="jumboimg" >
+        <img id="jumboPic" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGEs3CoOaxkHPb0TvV_7ndybJEHIasDHDWEVnXM52qY5S7nO0GkQ" class="img-rounded img-responsive" onmouseover="switchImage()" onmouseout="switchImage()" height="250 " alt="Record player">
     </div>
 </div>
 
+<script>
+    var image = document.getElementById("jumboPic");
+    function switchImage()
+    {
+        if (image.src == "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGEs3CoOaxkHPb0TvV_7ndybJEHIasDHDWEVnXM52qY5S7nO0GkQ") {
+            image.src = "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTsfqmjtSlgrCDith-1GHDAf-T0oTOCRGLE_-G4kb34ep-uAsm1g";
+        }
+        else
+        {
+            image.src = "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGEs3CoOaxkHPb0TvV_7ndybJEHIasDHDWEVnXM52qY5S7nO0GkQ";
+        }
+    }
+</script>
 
 <div class="row homePage">
     <div class="col-md-4" >
