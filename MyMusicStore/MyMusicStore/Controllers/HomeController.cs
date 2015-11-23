@@ -15,23 +15,15 @@ namespace MyMusicStore.Controllers
         {
             return View();
         }
-        public ActionResult HelloJavaScript()
+        public ActionResult ArtistInfo()
         {
             return View();
         }
-        public ActionResult demo1()
+        public JsonResult SearchArtist()
         {
-            return View();
-        }
-        public ActionResult DOM()
-        {
-            return View();
-        }
-        public ActionResult About()
-        {
-            ViewBag.Message = "Your application description page.";
+            Search artist = new Search();
+            return Json(artist.getArtistInfo(), JsonRequestBehavior.AllowGet);
 
-            return View();
         }
         public ActionResult Contact()
         {
@@ -45,8 +37,8 @@ namespace MyMusicStore.Controllers
             {
                 var body = "<p>Email From: {0} ({1})</p><p>Message:</p><p>{2}</p>";
                 var message = new MailMessage();
-                message.To.Add(new MailAddress("kirstinwalsh0805@gmail.com"));  // replace with valid value 
-                message.From = new MailAddress(model.FromEmail);  // replace with valid value
+                message.To.Add(new MailAddress("kirstinwalsh0805@gmail.com")); 
+                message.From = new MailAddress(model.FromEmail);  
                 message.Subject = model.Subject;
                 message.Body = string.Format(body, model.FromName, model.FromEmail, model.Message);
                 message.IsBodyHtml = true;

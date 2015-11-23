@@ -1,0 +1,36 @@
+﻿<link href="~/Content/ArtistInfo.css" rel="stylesheet" />
+@using MyMusicStore.Models;
+
+@{  
+    ViewBag.Title = "ArtistInfo";
+}
+
+<h2>Artist Info</h2>
+
+<div class="col-md-12"><h4>More Info on the artist: <span data-bind="text: response.artists()[0].name"></span></h4></div>
+<div class="col-md-12"><h4>One of their most popular songs is: <span data-bind="text: response.artists()[0].songs()[0].title"></span></h4></div>
+<div class="col-md-12"><h4>Their music is considered to be: <span data-bind="text: response.artists()[0].genres()[0].name"></span></h4></div>
+
+<form method="post" action="~/Models/Search">
+<!--input id="artist" placeholder="Enter artist's name" />-->
+</form>
+@{Search temp = new Search();
+    if (Request.Form["artist"] != null)                         //this method doesn't work; trying to get user response and pass it back to search class;
+    { temp.Artist = Request.Form["artist"].ToLower(); }         //have to hardcode search parameter at this time
+}
+<button>Click Me</button>
+
+<script>
+    var weather = Object();
+    $(document).ready(function () {
+        $('button').click(function () {
+           // var artist = $("#artist").val();
+       
+            $.get("@Url.Action("SearchArtist", "Home")", function (response) {
+                console.log(response);
+                artistInfo = ko.mapping.fromJS(response); //populate the artist search object
+                ko.applyBindings(artistInfo);
+       });
+    });
+  });
+</script>
