@@ -19,7 +19,7 @@ namespace MyMusicStore.Controllers
         {
             return View();
         }
-        public JsonResult SearchArtist()
+        public JsonResult SearchArtist(Search model)
         {
             Search artist = new Search();
             return Json(artist.getArtistInfo(), JsonRequestBehavior.AllowGet);

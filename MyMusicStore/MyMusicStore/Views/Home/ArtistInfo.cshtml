@@ -12,7 +12,7 @@
 <div class="col-md-12"><h4>Their music is considered to be: <span data-bind="text: response.artists()[0].genres()[0].name"></span></h4></div>
 
 <form method="post" action="~/Models/Search">
-<!--input id="artist" placeholder="Enter artist's name" />-->
+<input id="artist" placeholder="Enter artist's name" />
 </form>
 @{Search temp = new Search();
     if (Request.Form["artist"] != null)                         //this method doesn't work; trying to get user response and pass it back to search class;
@@ -21,12 +21,12 @@
 <button>Click Me</button>
 
 <script>
-    var weather = Object();
+   
     $(document).ready(function () {
         $('button').click(function () {
            // var artist = $("#artist").val();
        
-            $.get("@Url.Action("SearchArtist", "Home")", function (response) {
+            $.get("@Url.Action("SearchArtist", "Home")", { artist: $('#artist').val() }, function (response) {
                 console.log(response);
                 artistInfo = ko.mapping.fromJS(response); //populate the artist search object
                 ko.applyBindings(artistInfo);

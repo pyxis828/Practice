@@ -14,7 +14,7 @@ namespace MyMusicStore.Models
         public Object getArtistInfo()
         {
             string appID = "GJZC9LKRBGRYD8B6P ";
-            artist = "metallica";
+            artist = this.Artist;
             string url = "http://developer.echonest.com/api/v4/artist/search?api_key="+ appID + "&format=json&name=" + artist + "&results=1&bucket=genre&bucket=songs";
             //synchronous client;
             var client = new WebClient();
